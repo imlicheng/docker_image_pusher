@@ -1,2 +1,5 @@
 python:3.9.20-slim-bullseye
 nginx:stable-alpine3.20-perl
+vulfocus/log4j2-cve-2021-44228:latest
+vulfocus/log4j-cve_2017_5645:latest
+ghcr.io/christophetd/log4shell-vulnerable-app:latest
